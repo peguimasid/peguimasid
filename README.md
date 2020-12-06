@@ -11,9 +11,7 @@ I'm a Fullstack Developer :smile:
 
 I know some languages, frameworks and techs like:
 
-### Languages:
-- Javascript
-- Typescript
+### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> | <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ### Frontend
 - ReactJS
