@@ -27,7 +27,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-### What I don't know, give me a few days haha
+### What I don't know, give me a few days 😁
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=peguimasid&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
