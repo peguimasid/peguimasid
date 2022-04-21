@@ -6,7 +6,7 @@ Full Stack Software Developer
 
 I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-I am also a student at 42 | Rio, a Software Engineering school that have 35 campuses in 22 countries.
+I am also a student at 42 | Rio, a Software Engineering school that have 35 campus in 22 countries.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
