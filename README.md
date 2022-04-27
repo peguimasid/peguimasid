@@ -10,7 +10,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Daktus](https://daktus.com.br) and [Result Sistemas](http://resultsistemas.com)
+* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Rust and C programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
