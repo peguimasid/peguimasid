@@ -1,8 +1,7 @@
-Hi 👋 My name is Guilhermo
-==========================
+### Hi 👋 My name is Guilhermo
+---
 
-Full Stack Software Developer
------------------------------
+#### Full Stack Software Developer
 
 I'm a 21 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
