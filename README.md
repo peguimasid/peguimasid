@@ -26,7 +26,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="32" alt="materialui logo"  />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo"  />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="32" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="32" alt="adonisjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="32" alt="phoenix logo"  />
