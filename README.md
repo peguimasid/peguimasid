@@ -22,7 +22,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="32" alt="elixir logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/next.js/FFFFFF" height="32" alt="nextjs logo"  />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="32" alt="materialui logo"  />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="nodejs logo"  />
