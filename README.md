@@ -15,7 +15,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 
 #### Skills
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="32" alt="typescript logo"  />
   <img src="https://devicon-website.vercel.app/api/c/plain.svg" height="32" alt="c logo"  />
@@ -43,7 +43,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
   <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" height="32" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-</div>
+</p>
 
 #### Socials
 
