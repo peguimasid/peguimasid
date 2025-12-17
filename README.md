@@ -37,7 +37,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="32" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="32" alt="digitalocean logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="32" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="32" alt="heroku logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32" alt="vitest logo" />
   <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" height="32" alt="bash logo"  />
