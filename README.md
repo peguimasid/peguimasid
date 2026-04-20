@@ -55,7 +55,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
   </a>
   <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" title="GitHub" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer">
