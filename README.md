@@ -1,10 +1,10 @@
 ## Hi 👋 My name is Guilhermo
 
-#### Full Stack Software Developer
+#### Software Engineer
 
-I'm a 23-year-old developer, hacking since I was 16. I love to code and solve deep problems using cutting-edge tech. My main focus is on front and back-end development, creating applications that impact thousands of users.
+I'm a 23-year-old software engineer, hacking since I was 16. I love digging into deep problems and building end-to-end products — from low-level systems to polished interfaces.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school with [57 campus in 31 countries](https://www.42network.org/42-schools/).
+I also studied at [42](https://42.rio/), a peer-to-peer software engineering school with [campuses in 30+ countries](https://www.42network.org/42-schools/) — no teachers, no lectures, just projects.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
