@@ -35,19 +35,15 @@ I also studied at [42](https://42.rio/), a peer-to-peer software engineering sch
 <p align="left">
   <a href="https://masid.dev" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://masid.dev/favicon.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://masid.dev/favicon-light.svg" />
-      <img src="https://masid.dev/favicon.svg" width="32" height="32" alt="Website" title="masid.dev" />
+      <source media="(prefers-color-scheme: dark)" srcset="icons/globe-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="icons/globe-light.svg" />
+      <img src="icons/globe-light.svg" width="32" height="32" alt="Website" title="masid.dev" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
   </a>
 </p>
