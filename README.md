@@ -2,15 +2,15 @@
 
 #### Software Engineer
 
-I'm a 23-year-old software engineer, hacking since I was 16. I love digging into deep problems and building end-to-end products — from low-level systems to polished interfaces.
+I'm a software engineer, hacking since I was 16. I love digging into deep problems and building end-to-end products — from low-level systems to polished interfaces.
 
 I also studied at [42](https://42.rio/), a peer-to-peer software engineering school with [campuses in 30+ countries](https://www.42network.org/42-schools/) — no teachers, no lectures, just projects.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
 * 🚀  I'm currently working as a Software Engineer at TextExpander
-* 🌱  I’m currently playing around with Desktop apps, Chrome extensions, Elixir, Phoenix and functional programming
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* 🌱  I build desktop apps, Chrome extensions, and backend systems with Elixir, Phoenix, and functional programming
+* 🤝  I'm open to collaborating on projects that have a high impact in people's lives
 * 🏋🏼‍♂️  I love sports and my favorite is Crossfit
 
 #### Skills
@@ -33,14 +33,11 @@ I also studied at [42](https://42.rio/), a peer-to-peer software engineering sch
 #### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer">
+  <a href="https://masid.dev" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-    </picture>
-  </a>
-  <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://masid.dev/favicon.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://masid.dev/favicon-light.svg" />
+      <img src="https://masid.dev/favicon.svg" width="32" height="32" alt="Website" title="masid.dev" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer">
@@ -48,15 +45,9 @@ I also studied at [42](https://42.rio/), a peer-to-peer software engineering sch
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
-  <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/@gmasid" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
     </picture>
   </a>
 </p>
-
