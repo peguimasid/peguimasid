@@ -7,7 +7,7 @@ I'm a software engineer, hacking since I was 16. I love digging into deep proble
 I also studied at [42](https://42.rio/), a peer-to-peer software engineering school with [campuses in 30+ countries](https://www.42network.org/42-schools/) — no teachers, no lectures, just projects.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* ✉️  You can contact me at [hey@masid.dev](mailto:hey@masid.dev)
 * 🚀  I'm currently working as a Software Engineer at TextExpander
 * 🌱  I build desktop apps, Chrome extensions, and backend systems with Elixir, Phoenix, and functional programming
 * 🤝  I'm open to collaborating on projects that have a high impact in people's lives
