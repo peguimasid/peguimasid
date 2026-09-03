@@ -29,17 +29,3 @@ I also studied at [42](https://42.rio/), a peer-to-peer software engineering sch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="32" alt="amazonwebservices logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
 </p>
-
-#### Socials
-
-<p align="left">
-  <a href="https://masid.dev" target="_blank" rel="noreferrer">
-    <img src="icons/globe.svg" width="32" height="32" alt="Website" title="masid.dev" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer">
-      <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer">
-    <img src="icons/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-  </a>
-</p>
