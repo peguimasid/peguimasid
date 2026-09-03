@@ -1,7 +1,3 @@
-## Hi 👋 My name is Guilhermo
-
-#### Software Engineer
-
 I'm a software engineer, hacking since I was 16. I love digging into deep problems and building end-to-end products — from low-level systems to polished interfaces.
 
 I also studied at [42](https://42.rio/), a peer-to-peer software engineering school with [campuses in 30+ countries](https://www.42network.org/42-schools/) — no teachers, no lectures, just projects.
